@@ -1,7 +1,7 @@
 import {Header}  from "../../components/Header/Header"
 import Card from "../../components/Card/Card"
 import { HomePageContainer } from "./style"
-import { useState } from "react" 
+
 
 
 export function HomePage (props) {
@@ -10,6 +10,7 @@ export function HomePage (props) {
     const {handleInputImage, handleInputName, handleInputSpecies, handleInputQuery, handleInputOrderParam} = props.handlers
     const {addCharacter}=props
     const{removeCharacter}=props
+    const{changePage}=props
 
   
     
@@ -25,6 +26,7 @@ export function HomePage (props) {
             name={char.name}
             species={char.species}
             removeCharacter={removeCharacter}
+            changePage={changePage}
             />
         )
 
