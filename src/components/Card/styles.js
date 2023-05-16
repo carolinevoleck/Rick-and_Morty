@@ -3,13 +3,13 @@ import styled from 'styled-components'
 export const CardContainer = styled.div`
 
 background-color: var(--soft-white);
-padding: 10px;
-margin: 5px;
+padding: 0.625rem;
+margin: 0.3125rem;
 text-align: center;
 color: var(--dark);
 
 img{
-    max-width: 200px;
+    max-width: 12.5rem;
 }
 
 h2{
