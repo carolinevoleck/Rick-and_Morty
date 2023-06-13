@@ -1,15 +1,9 @@
-# Getting Started with Create React App
+Este projeto Rick and Morty foi realizado com o intuito de fixação do conteúdo apresentando pelo bootcamp Labenu até aqui, foram aplicados: Criando e estruturando um projeto React, Componentização, Styled-Components, Props, Renderização de Listas, Reatividade e estados, Lidando com eventos do usuário e Inputs controlados, Manipulando dados no estado e Busca, filtros e ordenação. (O usuário é capaz de adicionar seu próprio card, aplicando o endereço da imagem de sua preferencia, remover cards, usar filtros pelo nome, e ordem crescente e decrescente e visualizar detalhes de cada card).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+link: https://lnkd.in/dfAS9P3a
 
-In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
