@@ -1,3 +1,10 @@
+
+<img src="![Rick and Morty - Google Chrome 26_05_2023 16_24_54](https://github.com/carolinevoleck/Rick-and_Morty/assets/116590798/7df6462e-6284-4691-9dd8-7d9e0c398bfa)"/>
+
+
+
+
+
 Este projeto Rick and Morty foi realizado com o intuito de fixação do conteúdo apresentando pelo bootcamp Labenu até aqui, foram aplicados: Criando e estruturando um projeto React, Componentização, Styled-Components, Props, Renderização de Listas, Reatividade e estados, Lidando com eventos do usuário e Inputs controlados, Manipulando dados no estado e Busca, filtros e ordenação. (O usuário é capaz de adicionar seu próprio card, aplicando o endereço da imagem de sua preferencia, remover cards, usar filtros pelo nome, e ordem crescente e decrescente e visualizar detalhes de cada card).
 
 
