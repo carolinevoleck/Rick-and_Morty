@@ -4,6 +4,12 @@ Este projeto Rick and Morty foi realizado com o intuito de fixação do conteúd
 
 link: https://lnkd.in/dfAS9P3a
 
+![Rick and Morty - Google Chrome 26_05_2023 16_24_54](https://github.com/carolinevoleck/Rick-and_Morty/assets/116590798/9536fb12-f6b4-4d97-b27a-530c02088063)
+
+
+
+
+
 
 
 The page will reload when you make changes.\
